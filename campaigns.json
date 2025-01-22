@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Kegiatan Sosial",
+        "image": "foto\/keg.jpg",
+        "description": "Target Donasi Rp. 60.000.000 Batas Waktu 44 Hari"
+    },
+    {
+        "title": "pendidikan",
+        "image": "foto\/pen.jpg",
+        "description": "Target Donasi Rp. 30.000.000 Batas Waktu 20 Hari"
+    },
+    {
+        "title": "Korban Banjir",
+        "image": "foto\/kor.jpg",
+        "description": "Target Donasi Rp. 15.000.000 Batas Waktu 30 Hari"
+    },
+    {
+        "title": "Panti Asuhan",
+        "image": "foto/pan.jpg",
+        "description": "Target Donasi Rp. 24.000.000 Batas Waktu 15 Hari"
+    }
+]
